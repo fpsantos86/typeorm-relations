@@ -1,0 +1,4 @@
+- Clientes (id, nome, email)
+- Produtos (id, nome, valor)
+- Pedidos (id)
+- PedidosProdutos (id, id_produto, id_order, quantidade, valor)
